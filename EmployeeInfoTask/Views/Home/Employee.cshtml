@@ -1,0 +1,296 @@
+﻿@model EmployeeInfoTask.Models.Employee;
+@{
+    ViewData["Title"] = "Employee";
+}
+
+<h1 class="display-5 alert alert-dark">Employee Mangement</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-md">
+            <div class="card">
+                <div class="card-header">
+                    <div class="col">
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <label for="searchInput" class="sr-only">Search</label>
+                                <input type="text" id="searchInput" class="form-control" placeholder="Search">
+                            </div>
+                            <div class="col-md-2"></div>
+                            <div class="form-group col-md-4 d-flex justify-content-end">
+                                <button class="btn btn-primary btn-sm" id="addEmployeeBtn" onclick="clickOnToogleButton()">
+                                    <i class="fa fa-plus"></i>
+                                    <span id="toggleButton">Add New Employee</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body" id="addEmployee" >
+                    <h3 class="card-title">Add New Employee</h3>
+                    <form asp-action="Employee" id="empForm">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-3 row" hidden>
+                                    <label asp-for="EmployeeId" class="col-form-label col-sm-4">Employee Name</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="EmployeeId" id="empEmployeeId" class="form-control" type="text" />
+                                    </div>
+                                    <span asp-validation-for="EmployeeId" class="text-danger"></span>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="Name" class="col-form-label col-sm-4">Employee Name</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="Name" id="empName" class="form-control" type="text" />
+                                    </div>
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="FatherName" class="col-form-label col-sm-4">Father Name</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="FatherName" id="empFatherName" class="form-control" type="text" />
+                                    </div>
+                                    <span asp-validation-for="FatherName" class="text-danger"></span>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="MotherName" class="col-form-label col-sm-4">Mother Name</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="MotherName" id="empMotherName" class="form-control" />
+                                    </div>
+                                    <span asp-validation-for="MotherName" class="text-danger"></span>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="Username" class="col-form-label col-sm-4">Username</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="Username" id="empUsername" class="form-control" />
+                                    </div>
+                                    <span asp-validation-for="Username" class="text-danger"></span>
+                                </div>
+
+                                <div class="mb-3 row">
+                                    <label asp-for="Email" class="col-form-label col-sm-4">Email Address</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="Email" id="empEmail" class="form-control" />
+                                    </div>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+
+                                <div class="mb-3 row">
+                                    <label asp-for="Phone" class="col-form-label col-sm-4">Mobile Number</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="Phone" id="empPhone" class="form-control" />
+                                    </div>
+                                    <span asp-validation-for="Phone" class="text-danger"></span>
+                                </div>
+
+                            </div>
+                            <div class="col-6">
+
+                                <div class="mb-3 row">
+                                    <label asp-for="DateOfBirth" class="col-form-label col-sm-4">Date of Birth</label>
+                                    <div class="col-sm-6">
+                                        <input asp-for="DateOfBirth" id="empDateOfBirth" type="date" class="form-control" />
+                                    </div>
+                                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                                </div>
+
+                                <div class="mb-3 row">
+                                    <label asp-for="Gender" class="col-form-label col-sm-4">Gender</label>
+                                    <div class="col-sm-6">
+                                        <select asp-for="Gender" asp-items="Html.GetEnumSelectList<Gender>()" id="empGender" class="form-control">
+                                            <option value="">-- Select --</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="BloodGroup" class="col-form-label col-sm-4">Blood Group</label>
+                                    <div class="col-sm-6">
+                                        <select asp-for="BloodGroup" asp-items="Html.GetEnumSelectList<BloodGroup>()" id="empBloodGroup" class="form-control">
+                                            <option value="">-- Select --</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+                                <div class="mb-3 row">
+                                    <label asp-for="Status" class="col-form-label col-sm-4">User Status</label>
+                                    <div class="col-sm-6">
+                                        <select asp-for="Status" asp-items="Html.GetEnumSelectList<Status>()" id="empStatus" class="form-control">
+                                            <option value="">-- Select --</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="Education" class="col-form-label col-sm-4">Education</label>
+                                    <div class="col-sm-6">
+                                        <select asp-for="Education" asp-items="Html.GetEnumSelectList<EducationLevel>()" id="empEducation" class="form-control">
+                                            <option value="">-- Select --</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="mb-3 row">
+                                    <label asp-for="DepartmentId" class="col-form-label col-sm-4">Department</label>
+                                    <div class="col-sm-6">
+                                        <select asp-for="DepartmentId" asp-items="@ViewBag.DepartmentId" id="empDepartmentId" class="form-control">
+                                            <option value="">-- Select --</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-3 row">
+                            <div class="col-sm-6 offset-sm-4">
+                                <button id="submitBtn" type="submit" class="btn btn-primary btn-sm">
+                                    Save Employee
+                                </button>
+
+                                <a asp-controller="Home" asp-action="Employee" class="btn btn-secondary btn-sm btn-warning">Reset</a>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="card-body" id="employeeList">
+                    <h3 class="display-7 alert alert-dark">Employee List</h3>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>SL</th>
+                                <th>Name</th>
+                                <th>Father's Name</th>
+                                <th>Email</th>
+                                <th>Phone</th>
+                                <th>Date of Birth</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="employeeTableBody">
+                            <!-- Data will be dynamically added here -->
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    
+
+    //Function for add employee
+    $(document).ready(() => {
+        toogleButtonShowOrHide();
+        $("#editEmployee").hide();
+    })
+
+    // Manage Toggle Button ["Add Employee", change to "Employee List"]
+    function toogleButtonShowOrHide() {
+        var toggleButton = document.getElementById('toggleButton');
+        var currentText = toggleButton.innerText;
+        console.log(currentText);
+
+        if (currentText === "Add New Employee") {
+            toggleButton.innerText = "Employee List";
+            $("#addEmployee").show();
+            $("#employeeList").hide();
+        } else {
+            toggleButton.innerText = "Add New Employee";
+            $("#addEmployee").hide();
+            $("#employeeList").show();
+        }
+    }
+    
+     function clickOnToogleButton() {
+        toogleButtonShowOrHide();
+     }
+
+    // fetch data for employee list
+    function fetchData() {
+        $.ajax({
+            url: 'http://localhost:5046/api/Employees',
+            method: 'GET',
+            success: function (data) {
+                console.log('Successfully retrieved data:', data);
+                $('#employeeTableBody').empty();
+
+                for (let i = 0; i < data.length; i++) {
+                    var dateOfBirth = new Date(data[i].dateOfBirth).toISOString().split('T')[0];
+                    console.log("Selected ID : " + data[i].employeeId);
+                    var row = '<tr>' +
+                        '<td>' + (i + 1) + '</td>' +
+                        '<td>' + data[i].name + '</td>' +
+                        '<td>' + data[i].fatherName + '</td>' +
+                        '<td>' + data[i].email + '</td>' +
+                        '<td>' + data[i].phone + '</td>' +
+                        '<td>' + dateOfBirth + '</td>' +
+                        '<td>' + data[i].status + '</td>' +
+                        '<td>' +
+                        '<button class="btn btn-info btn-sm" onclick="editEmployee(' + data[i].employeeId + ')"><i class="fa fa-edit"></i> Edit</button>' +
+                        '<button class="btn btn-danger btn-sm" onclick="deleteEmployee('+ data[i].employeeId + ')"><i class="fa fa-trash"></i> Delete</button>' +
+                        '</td>' 
+                        '</tr>';
+                    $('#employeeTableBody').append(row);
+                }
+            }
+        });
+    }
+    fetchData();
+
+    //function for update employee
+    function editEmployee(i) {
+        console.log(i);
+        $("#addEmployee").show();
+        $.ajax({
+            url: 'http://localhost:5046/api/Employees/' + i,
+            method: 'GET',
+            success: function (data) {
+                console.log('Successfully retrieved data:', data);
+                console.log('Successfully retrieved data:', data.name);
+                var dateOfBirth = new Date(data.dateOfBirth).toISOString().split('T')[0];
+
+                $('#empEmployeeId').val(data.employeeId);
+                $('#empName').val(data.name);
+                $('#empFatherName').val(data.fatherName);
+                $('#empMotherName').val(data.motherName);
+                $('#empUsername').val(data.username);
+                $('#empEmail').val(data.email);
+                $('#empPhone').val(data.phone);
+                $('#empDateOfBirth').val(dateOfBirth);
+                $('#empGender').val(data.gender);
+                $('#empBloodGroup').val(data.bloodGroup);
+                $('#empStatus').val(data.status);
+                $('#empEducation').val(data.education);
+                $('#empDepartmentId').val(data.departmentId);
+            },
+            error: function (xhr, status, error) {
+                console.error('Error retrieving data:', error);
+            }
+        });
+
+    }
+
+    //delete data from employee
+    function deleteEmployee(i) {
+        var confirmation = confirm("Delete this employee!!");
+        if (!confirmation) {
+            return;
+        }
+
+        $.ajax({
+            url: 'http://localhost:5046/api/Employees/' + i,
+            method: 'DELETE',
+            success: function () {
+                console.log('Successfully deleted employee with ID:', i);
+                fetchData();
+            },
+            error: function (error) {
+                console.error('Error deleting employee with ID:', i, error);
+            }
+        });
+    }
+
+</script>
+
+    

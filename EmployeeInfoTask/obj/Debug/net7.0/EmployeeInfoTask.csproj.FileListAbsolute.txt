@@ -1,0 +1,514 @@
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\appsettings.Development.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\appsettings.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\libman.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.staticwebassets.runtime.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.exe
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.deps.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.runtimeconfig.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.pdb
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.AssemblyReference.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.AssemblyInfoInputs.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.AssemblyInfo.cs
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.CoreCompileInputs.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.MvcApplicationPartsAssemblyInfo.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.RazorAssemblyInfo.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.RazorAssemblyInfo.cs
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeInfoTask.Microsoft.AspNetCore.StaticWebAssets.props
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeInfoTask.props
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeInfoTask.props
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeInfoTask.props
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.pack.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.build.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.development.json
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\bundle\EmployeeInfoTask.styles.css
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeInfoTask.bundle.scp.css
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.CopyComplete
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\refint\EmployeeInfoTask.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.pdb
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.genruntimeconfig.cache
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\ref\EmployeeInfoTask.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Humanizer.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Build.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Common.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Azure.Core.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Azure.Identity.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.CodeDom.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Memory.Data.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\appsettings.Development.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\appsettings.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\libman.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.staticwebassets.runtime.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.exe
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.deps.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.runtimeconfig.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\EmployeeInfoTask.pdb
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Azure.Core.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Azure.Identity.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Humanizer.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Build.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Common.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.CodeDom.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Memory.Data.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.AssemblyReference.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.AssemblyInfoInputs.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.AssemblyInfo.cs
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.CoreCompileInputs.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.MvcApplicationPartsAssemblyInfo.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.RazorAssemblyInfo.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.RazorAssemblyInfo.cs
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeInfoTask.Microsoft.AspNetCore.StaticWebAssets.props
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeInfoTask.props
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeInfoTask.props
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeInfoTask.props
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.pack.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.build.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\staticwebassets.development.json
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\bundle\EmployeeInfoTask.styles.css
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeInfoTask.bundle.scp.css
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.csproj.CopyComplete
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\refint\EmployeeInfoTask.dll
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.pdb
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\EmployeeInfoTask.genruntimeconfig.cache
+E:\masumkazi\New folder\EmployeeInfoTask\EmployeeInfoTask\obj\Debug\net7.0\ref\EmployeeInfoTask.dll
